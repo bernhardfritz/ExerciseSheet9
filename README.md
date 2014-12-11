@@ -19,18 +19,14 @@ instead of merging/debugging huge piles of code.
 * A solid code base is available at all times.
 * A good team is able to manage itself
 
+### Team responsibilities
+* Code has to be checked-in regularly.
+* Broken or untested code mustn't be checked-in.
+* No check-ins if the build is broken.
+* A broken build has to be fixed before checking-in new code fragments.
+
 Drawbacks
 ---------
-* The team must obey following rules:
-
-Code has to be checked-in regularly.
-
-Broken or untested code mustn't be checked-in.
-
-No check-ins if the build is broken.
-
-A broken build has to be fixed before checking-in new code fragments.
-
 * If project requirements change, the code is already deeply merged and it
 might be difficult to do major changes.
 * Since Continuous Integration requires the build to always be operational, it
