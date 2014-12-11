@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="JoinerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2014-12-11T19:38:34" hostname="Bernhards-MacBook-Pro.local" time="0.005">
+  <properties/>
+  <testcase name="test" classname="JoinerTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
