@@ -13,11 +13,11 @@ Concepts
 Benefits
 --------
 * Bugs can be detected early on and can be found in no time.
-* Continuously integrating allows a team to focus on creating new features.
+* Continuously integrating allows a team to focus on creating new features
 instead of merging/debugging huge piles of code.
 * The project schedule is easier to keep, since less time is lost integrating.
 * A solid code base is available at all times.
-* A good team is able to manage itself
+* A good team is able to manage itself.
 
 Drawbacks
 ---------
